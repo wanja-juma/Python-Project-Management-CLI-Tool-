@@ -40,7 +40,7 @@ project_tracker/
 
 ### 1. Clone the repository
 
-git clone <your-repo-url>
+git clone git@github.com:wanja-juma/Python-Project-Management-CLI-Tool-.git
 cd project_tracker
 
 ## 2. Install dependencies

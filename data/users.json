@@ -1,0 +1,10 @@
+[
+    {
+        "_name": "Ruth",
+        "_email": "ruth@test.com",
+        "id": 1,
+        "projects": [
+            "CLI"
+        ]
+    }
+]
